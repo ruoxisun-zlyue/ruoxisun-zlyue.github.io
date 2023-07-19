@@ -14,4 +14,4 @@ I am very fortunate to be advised by [Prof. Sen Song](https://www.med.tsinghua.e
 
 You can find my CV here: [Ruoxi Sun's Curriculum Vitae](../assets/Curriculum_Vitae.docx).
 
-[Email(preffered)](srx20@mails.tsinghua.edu.cn) / [Email](ruoxisunlucy@gmail.com) / [Twitter](https://twitter.com/Ruoxi_Sun_) 
+[Email(preffered)](srx20@mails.tsinghua.edu.cn) / [Email](ruoxisunlucy@gmail.com) 
