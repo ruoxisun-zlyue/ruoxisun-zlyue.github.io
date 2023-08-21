@@ -6,8 +6,8 @@ main:
   - title: "Research Interests"
    url: /Research-Interests/    
 
-  - title: "Academic Activities"
-   url: /Academic Activities/    
+#  - title: "Academic Activities"
+#   url: /Academic Activities/    
     
 # - title: "Portfolio"
 #    url: /portfolio/
